@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name           Habrahabr 'comments like reddit' mod
+// @description    Makes Habrahabr comments behave like Reddit's: no avatars, order by comment rating, collapsible threads, author's comments marked with [S]; Tested with Firefox and Chrome
 // @author         Leonid Shevtsov
 // @version        0.1
 // @namespace      http://leonid.shevtsov.me
