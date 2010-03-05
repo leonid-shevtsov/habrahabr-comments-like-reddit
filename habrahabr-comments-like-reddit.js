@@ -75,4 +75,4 @@ $('.expand_thread a').unbind('click').click(function() {
 
 //add [S]
 author_url = $('.entry-info-wrap .author .nickname').attr('href')
-$('.msg-meta .nickname a[href="'+author_url+'"]').each(function() {$(this).text($(this).text()+' [S]');});
+$('.msg-meta .nickname a[href="'+author_url+'"]').each(function() {$(this).text($(this).text()+' [S]'); $(this).css('color','#6DA3BD');});
